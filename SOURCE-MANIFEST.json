@@ -1,0 +1,130 @@
+﻿[
+    {
+        "Path":  ".gitignore",
+        "SHA256":  "7BAADA74221BCABC9520BC123DC593D26E81839E2B1C8A95E232CE92A03CF103"
+    },
+    {
+        "Path":  "index.html",
+        "SHA256":  "C489CA10E39DEE2C944678C7CBE29C05C1464F0D3AD331829BE0616DFE292ADA"
+    },
+    {
+        "Path":  "package.json",
+        "SHA256":  "FF8645E3F1DB4ADC18A8FC31EA94EB6C031FBABFCBB81536E5E35A7C687B7D40"
+    },
+    {
+        "Path":  "package-lock.json",
+        "SHA256":  "14DE06F11D5CBD381EBFBA577E1B4A35C7BAD022E01563CD543D725E7088D02E"
+    },
+    {
+        "Path":  "vite.config.ts",
+        "SHA256":  "46CE8A6CD6487D3FED7A376AF36B8FC5943D2772CC0B676763D9486B68DA249C"
+    },
+    {
+        "Path":  "tsconfig.json",
+        "SHA256":  "770B4140BBB581E2DFD9EA9946FFC9C75A1D86BA7D2DB5F77C83E37CBDF9D808"
+    },
+    {
+        "Path":  "tsconfig.app.json",
+        "SHA256":  "8E5D12BA330E7D86409EDEC74B95451E0DB22EE09B9426C94B5BF817571EDDB0"
+    },
+    {
+        "Path":  "tsconfig.node.json",
+        "SHA256":  "D366CC0827139DB39C61815F22491BBFDA56C654354A42AD7795143D314E45E8"
+    },
+    {
+        "Path":  "eslint.config.js",
+        "SHA256":  "CF80A7510234DCD5AE594B30B44682B8B45BA13C0FCB5BF8928BEA143802AA1C"
+    },
+    {
+        "Path":  "src\\App.css",
+        "SHA256":  "6E25A776D3E8102DA5BACB3CB99F4A5FC662A2E01E6143140671A556D28C3D5C"
+    },
+    {
+        "Path":  "src\\App.tsx",
+        "SHA256":  "4D8261119C65881EB73F9B7F33D8895F6C259AD75752658E7B4A0D59172C5011"
+    },
+    {
+        "Path":  "src\\index.css",
+        "SHA256":  "944E6E12C0067A6767836A78AD6C4095B829F966B44F33BC95CFEF1401AB3C10"
+    },
+    {
+        "Path":  "src\\main.tsx",
+        "SHA256":  "6E9E5807FCBD48B75A96DB5CBEF36C996262196BE42E6D4760DC86BABBE61AD2"
+    },
+    {
+        "Path":  "src\\assets\\hero.png",
+        "SHA256":  "881FFBCAAFC212E49ADDAD08846A5B82761355FA20624253AF3477BA33262C5C"
+    },
+    {
+        "Path":  "src\\assets\\react.svg",
+        "SHA256":  "35EF61ED53B323AE94A16A8EC659B3D0AF3880698791133F23B084085AB1C2E5"
+    },
+    {
+        "Path":  "src\\assets\\vite.svg",
+        "SHA256":  "5BE21ACD42EB7B896E517F4E0F0F11EB5C5D9E54FBBCEBE9453F033008FCCA6F"
+    },
+    {
+        "Path":  "src\\components\\AutenticacionInscripcion.tsx",
+        "SHA256":  "8685DBB17066779558617C7E4A66C45AC0EF37D9AA1670B649933E753F9032D1"
+    },
+    {
+        "Path":  "src\\components\\ConfirmacionInscripcion.tsx",
+        "SHA256":  "7E21121C29B3B427D4E2B2540267CA744AF817F51AA8648B66DE7B8B15F44A22"
+    },
+    {
+        "Path":  "src\\components\\Sedes.css",
+        "SHA256":  "43E6E1C0AFC3713D88B435378E444DB43809012A3431892903473A155CBA6E65"
+    },
+    {
+        "Path":  "src\\components\\Sedes.tsx",
+        "SHA256":  "AE4DB63F6B0617F60CDFB996B5DC5986568BECABF35AF9526699D4A96C5FF546"
+    },
+    {
+        "Path":  "src\\components\\sedesData.ts",
+        "SHA256":  "935BB566312322F761F69A9245FF62FD5CEA17BA2E3CEFCAE9742708E3C3C969"
+    },
+    {
+        "Path":  "src\\components\\seleccionInscripcion.ts",
+        "SHA256":  "257941CADD34740159ADFCA9B34DF41A63E91BF21AC9E3B95778BB8B17A05D4E"
+    },
+    {
+        "Path":  "src\\services\\api.ts",
+        "SHA256":  "58702D0B001AC41ECE21758D298588463B9956DCEE3C23EDC197787071FDF9BF"
+    },
+    {
+        "Path":  "public\\favicon.svg",
+        "SHA256":  "61BC9A161DE58248288E6905425D7180F0624C2865007B97D763FDAC12043A66"
+    },
+    {
+        "Path":  "public\\icons.svg",
+        "SHA256":  "B45FA506195CFCDEF406BA9F0C77B36DDC1A7C224040926EC70ABC2FDEA7B93A"
+    },
+    {
+        "Path":  "public\\iconos\\brazo.png",
+        "SHA256":  "135FFD19B50BE6FE72534120E89BE9B6C9B15B984C11FC419B0C668EA0878858"
+    },
+    {
+        "Path":  "public\\iconos\\gimnasio.png",
+        "SHA256":  "EE7A6AE7E031B37659B2D2361B85A5B64648821562A61CA80C66E175B03D03C8"
+    },
+    {
+        "Path":  "public\\iconos\\mancuerna.png",
+        "SHA256":  "1A65674531DF56E830EF351F729A468712B3651DF603868D79A15D1D1C0C0CFF"
+    },
+    {
+        "Path":  "public\\images\\membresias-gym.png",
+        "SHA256":  "9BDAB9097D291ABFF9439FA7F7AF6BEBBBAA5D52BC71A0718C57664968B5C7E8"
+    },
+    {
+        "Path":  "public\\images\\sede-cardio.png",
+        "SHA256":  "A87BCAAAD48EF574DD60832A84E721B23D0E22DFB35FEA81198A97BC7954E149"
+    },
+    {
+        "Path":  "public\\images\\sede-fuerza.png",
+        "SHA256":  "EF8EF18FED690FD47C89C691046645D38C57A4337ACDC5D678379E97A13DFE19"
+    },
+    {
+        "Path":  "public\\images\\sede-funcional.png",
+        "SHA256":  "F1656AE8E7EF97734D2BCF27389A05AFB2195503E44CF4F6ADE66891C69EDB2A"
+    }
+]
